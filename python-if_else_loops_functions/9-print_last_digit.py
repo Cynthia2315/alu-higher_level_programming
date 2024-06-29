@@ -1,5 +1,8 @@
 #!/usr/bin/python3
 
 
-def add(a, b):
-    return (a + b)
+def print_last_digit(number):
+    if number < 0:
+        number = abs(number)
+    print("{:d}".format(number % 10), end="")
+    return number % 10
