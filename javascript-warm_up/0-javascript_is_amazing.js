@@ -1,4 +1,4 @@
-#!/usr/bin/node
-/* a script that prints "javascript is amazing" */
-const myVar = "JavaScript is amazing";
+#!/user/bin/node
+/* a script that prints "javasript is amazing" */
+cost myVar = "javaScript is amazing";
 console.log(myVar);
